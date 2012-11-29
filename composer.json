@@ -2,7 +2,7 @@
     "name": "runopencode/dm-tabs-behavior-plugin",
     "description": "dmTabsBehaviorPlugin - Tabs Front Behavior for Diem Extended",
     "version" : "1.0.0",
-    "time" : "2012-11-10",
+    "time" : "2012-11-29",
     "type": "symfony1-plugin",
     "require": {
         "composer/installers": "dev-master"

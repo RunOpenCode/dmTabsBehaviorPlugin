@@ -1,0 +1,9 @@
+.dmTabsBehavior.default .tab-title {
+    cursor: pointer;
+}
+
+.dmTabsBehavior.default .tab-title,
+.dmTabsBehavior.default .tab-title .dm_widget_inner, 
+.dmTabsBehavior.default .tab-title .dm_widget_inner > * {
+    display: inline;
+}
