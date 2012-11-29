@@ -1,0 +1,15 @@
+### Default settings for the Tabs Front Behavior
+default:
+  dmTabsBehavior:
+    defaults: # Default settings for behavior
+      inner_target: ''
+      theme: default
+      title: at_top
+      event: click
+      animation: slide
+      easing: jswing
+      duration: 500
+      initialy_open: 1
+    themes: 
+      default: 'dmTabsBehaviorPlugin.default' # From assets.yml - U can use a path instead
+      

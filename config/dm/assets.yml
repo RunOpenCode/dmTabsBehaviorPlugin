@@ -1,0 +1,6 @@
+js:
+  dmTabsBehaviorPlugin:
+    launch: dmTabsBehaviorPlugin
+css:
+  dmTabsBehaviorPlugin:
+    default: dmTabsBehaviorPluginThemeDefault

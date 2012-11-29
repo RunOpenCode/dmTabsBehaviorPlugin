@@ -1,0 +1,6 @@
+dmBehaviors:
+  dmTabsBehavior:
+    section: User interface
+    name: Tabs
+    form: dmTabsBehaviorForm
+    view: dmTabsBehaviorView
